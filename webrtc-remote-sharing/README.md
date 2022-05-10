@@ -1,1 +1,1 @@
-# HDC WebRTC Desktop Remote Access
+# WebRTC Desktop Remote Access
